@@ -33,7 +33,7 @@ This is a Windows Forms application built with C# (.NET Framework 4.7.2) that co
 
 ## 🖼️ Screenshot
 
-> *(Add your screenshot file as `screenshot.png` in the repo root)*
+![Screenshot](https://github.com/facebookegypt/winform-csv2json/raw/main/screenshot.png)
 
 ## 🧪 Requirements
 
@@ -58,7 +58,7 @@ Licensed under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Ahmed — [GitHub/facebookegypt](https://github.com/facebookegypt)  
+Ahmed Samir AKA evry1falls — [GitHub/facebookegypt](https://github.com/facebookegypt)(https://adonetaccess2003.blogspot.com)  
 Need help or have questions? Open an issue on the repo!
 
 ---
